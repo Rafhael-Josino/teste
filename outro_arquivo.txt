@@ -1,2 +1,3 @@
 Este é outro arquivo
 Alteração teste para outro arquivo
+Versão 2.0
