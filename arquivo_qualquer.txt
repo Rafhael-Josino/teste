@@ -1,2 +1,2 @@
 Este é um arquivo qualquer.
-Versao 3.0
+Versao 4.0
